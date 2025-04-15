@@ -42,6 +42,6 @@ This project simulates the type of exploratory analysis used in:
 
 ## 👤 About Me
 
-Created by **[Your Name]**  
+Created by Stephanie Mozley
 💼 [LinkedIn]([https://linkedin.com/in/stephanie-mozley])  
 
