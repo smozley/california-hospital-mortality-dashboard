@@ -1,5 +1,3 @@
-# california-hospital-mortality-dashboard
-Interactive Power BI dashboard analyzing mortality and quality trends in California hospitals (2016–2023).
 # 🏥 California Hospital Mortality & Quality Dashboard
 
 This interactive dashboard analyzes hospital performance across California from 2016 to 2023, using real-world data to explore:
